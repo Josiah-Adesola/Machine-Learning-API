@@ -1,2 +1,4 @@
 # Machine-Learning-API
-This is a personal repository of my Machine learning API learning and process
+This is a repository of my Machine learning API processes
+
+The aim is to track my process and build cool stuff.
